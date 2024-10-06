@@ -1,0 +1,2 @@
+KitName{AuroraPVPKIT1},Number:{14}
+KitName{AuroraPVPKIT2},Number:{13}

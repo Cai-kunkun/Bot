@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "minecraft-data": "^3.67.0",
+    "mineflayer": "^4.20.1",
+    "mineflayer-autocrystal": "^0.7.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-web-inventory": "^1.8.5",
+    "prismarine-viewer": "^1.28.0"
+  }
+}
